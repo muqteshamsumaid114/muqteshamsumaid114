@@ -3,11 +3,14 @@
 
 
 ## 👀 I’m interested in :
- - software development, machine learning, and open-source contributions
+ - software development
+ - Cyber Security
+ - machine learning
+ - and open-source contributions
 -------------------------------------------------------------------------------------------- 
 
 
-## 🌱 I’m currently learning Data Structures and Algorithms in Java, and exploring backend development  
+## 🌱 I’m currently learning ethical hacking and exploring cybersecurity
 -------------------------------------------------------------------------------------------
 
 
